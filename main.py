@@ -98,7 +98,7 @@ async def main():
 
     with sr.Microphone() as source:
         r.adjust_for_ambient_noise(source, duration=0.5)
-        r.pause_threshold = 1.5
+        r.pause_threshold = 2.0
 
         while True:
             print("Listening...")
