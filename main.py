@@ -53,7 +53,7 @@ messages = []
 openai = AsyncOpenAI()
 
 # User ID for memory - you can change this
-USER_ID = "user_01"
+USER_ID = "user01"
 
 
 async def tts(text: str):
