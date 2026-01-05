@@ -194,9 +194,7 @@ echo ".env" >>
 ## 🗄️ Start Database Services
 
 ```bash
-cd .devcontainer
 docker-compose up -d
-cd ..
 ```
 
 This starts:
