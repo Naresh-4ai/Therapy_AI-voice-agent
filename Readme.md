@@ -329,13 +329,3 @@ Made with care for mental wellness ❤️
 
 ```
 
----
-
-### If you want next:
-- 🔹 **Ultra-short README** (for GitHub landing)
-- 🔹 **Docker-only version**
-- 🔹 **Production hardening checklist**
-- 🔹 **Investor / portfolio README**
-
-Just tell me what version you want.
-```
